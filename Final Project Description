@@ -1,0 +1,14 @@
+A. Introduction
+A.1. Description & Discussion of the Background
+
+New York, Mumbai and Shanghai are all giant metropolitans of their countries. They are also the center of international trades and the symbols of  globalization. 
+New York city is the most populous city in the United States. With an estimated 2018 population of 8,398,748 distributed over a land area of about 302.6 square miles (784 km2). New York is also the most densely populated major city in the United States.
+Mumbai, which is also known as Bombay, is the most populous city in India with a population of 21.3 million. It’s also the financial, commercial and entertainment center of India. Shanghai, the most populous city in the world with a population of 26.3 million as of 2019, is a global financial center and transport hub in China.
+With the context of globalization, every part of the world has been connected and exposed to each other. As the most giant cities in the world, New York, Mumbai and Shanghai are located in countries with different culture and systems. It would be interesting to investigate how similar or dissimilar of the neighborhood clustering of the cities. Did each city become identical under the influence of globalization or they still kept their most distinguished and unique facets?
+With this question in mind, we can create three different map and clustering charts where each neighborhood in these cities will be cluttered. Comparing the labels of each lustering, we will be able to see the difference and similarities among these cities.
+
+A.2. Data Description
+To consider the problem we can list the data as below:
+I found coordinates of each neighborhoods or districts in each city from Wikipedia.
+I used Foursquare API to get the most common venues of given neighborhoods and districts.
+I used Google Map, ‘Search Nearby’ option to get the center coordinates of the each neighborhood.
